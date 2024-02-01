@@ -17,4 +17,4 @@ jobs:
       run: |
         pip install -r requirements.txt
     - name: Run the script
-      run: python app.py
+      run: python Techin-510-lab4-final/app.py
