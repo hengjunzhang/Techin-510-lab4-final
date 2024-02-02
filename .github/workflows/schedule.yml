@@ -15,6 +15,6 @@ jobs:
         python-version: '3.8'
     - name: Install dependencies
       run: |
-        pip install -r requirements.txt
+        pip install -r Techin-510-lab4-final/requirements.txt
     - name: Run the script
       run: python Techin-510-lab4-final/app.py
